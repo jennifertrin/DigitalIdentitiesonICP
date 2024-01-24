@@ -1,14 +1,14 @@
-# Digital Identifers on the Internet Computer
+# Digital Identifiers on the Internet Computer
 
 ## Overview
 
 This project demonstrates how to resolve digital identifiers on the Internet Computer (ICP). 
 
-**[Paystrings by The Registry]**(https://theregistry.app/) and **[IC Naming](https://www.icnaming.com/)** are two digital identity products on the Internet Computer, similar to **[Ethereum Name Service]**(https://ens.domains/) and **[Unstoppable Domains]**(https://unstoppabledomains.com/).
+[**Paystrings by The Registry**](https://theregistry.app/) and [**IC Naming**](https://www.icnaming.com/) are two digital identity products on the Internet Computer, similar to [**Ethereum Name Service**](https://ens.domains/) and [**Unstoppable Domains**](https://unstoppabledomains.com/).
 
 ### Paystrings
 
-**[Paystrings by The Registry]**(https://theregistry.app/) is a solution for secure and streamlined digital identity management. 
+[**Paystrings by The Registry**](https://theregistry.app/) is a solution for secure and streamlined digital identity management. 
 
 Individuals can create a unique identifier that links to their ICP principal or wallet address and/or their fiat account balances. This differs from other naming services such as ENS, which only allows linking a human-readable name to a cryptocurrency wallet address.
 
@@ -70,7 +70,3 @@ const fetchData = async () => {
   fetchData();
 }, []);
 ```
-
-
-
-
